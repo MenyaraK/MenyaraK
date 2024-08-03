@@ -38,3 +38,38 @@
 ---
 
 ## "Driven by data, inspired by results!"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Languages and Tools</title>
+<style>
+    .toolset {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        font-family: Arial, sans-serif;
+    }
+    .tool {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        padding: 5px 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    .tool img {
+        width: 24px;
+        height: 24px;
+    }
+</style>
+</head>
+<body>
+<div class="toolset">
+    <div class="tool"><img src="path_to_skywise_icon.png" alt="Skywise">Skywise</div>
+    <div class="tool"><img src="path_to_python_icon.png" alt="Python">Python</div>
+    <!-- Add other tools similarly -->
+</div>
+</body>
+</html>
