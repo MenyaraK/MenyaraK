@@ -34,12 +34,6 @@
 ### 🤝 Connect With Me
 - **LinkedIn**: [https://www.linkedin.com/in/menyara-k/]
 - **Email**: [khaire01@ads.uni-passau.de]
-- **Twitter**: [Twitter Handle]
-
----
-
-### ✨ Fun Fact
-[Insert a fun fact about yourself]
 
 ---
 
