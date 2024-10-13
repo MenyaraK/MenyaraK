@@ -5,7 +5,7 @@
 ---
 
 ### 📚 About Me
-- 🎓 **Education**: Engineering Diploma in Industrial IT and Automation from the National Institute of Applied Science and Technology (INSAT), Tunisia. Currently pursuing an M.Sc. in AI Engineering at the University of Passau, Germany.
+- 🎓 **Education**: Currently pursuing an M.Sc. in AI Engineering at the University of Passau, Germany. Has Obtained a Masters of Engineering in Industrial IT and Automation from the National Institute of Applied Science and Technology (INSAT), Tunisia. 
 - 🏥 **Current Project**: Developing a sepsis prediction platform using machine learning techniques. This project is supported by the DAAD Kospie Scholarship at University of Passau and is in collaboration with Klinikum Passau.
 - 🌐 **Interests**: Applying AI in healthcare, predictive analytics, big data, and cloud computing.
 
