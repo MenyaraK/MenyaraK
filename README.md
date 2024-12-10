@@ -1,36 +1,47 @@
-# Welcome to My GitHub! 👋
+# Welcome to My GitHub! 👋  
+I'm Menyara Khaireddine, an AI Engineering Master’s Student  
 
-## I'm Menyara Khaireddine, a Data Scientist and AI Engineering Master’s Student
+## 📚 About Me  
+🎓 **Education:**  
+- **Master’s Degree in AI Engineering** (Expected, September 2026)  
+  University of Passau, Germany  
+  *Specialized Courses:* Large Language Models (LLMs), Natural Language Processing (NLP), Deep Learning, Text Analysis in Finance, Reinforcement Learning, and Data Engineering.  
+- **Master’s Thesis**  
+  Development of a Machine Learning Model for Predicting Blood Infections  
+  Collaboration with Klinikum Passau, supported by the DAAD Kospie Scholarship.  
+  *Highlights:* Achieved 93% accuracy using ensemble methods like XGBoost and RUSBoost.  
 
----
+- **Integrated Bachelor’s and Master’s Degree in Industrial IT and Automation**  
+  INSAT, Tunisia  
+  Focus on Industrial Engineering, Electrical Systems, and Data-Driven Solutions.  
+ 
 
-### 📚 About Me
-- 🎓 **Education**: Currently pursuing an M.Sc. in AI Engineering at the University of Passau, Germany. Has Obtained a Masters of Engineering in Industrial IT and Automation from the National Institute of Applied Science and Technology (INSAT), Tunisia. 
-- 🏥 **Current Project**: Developing a sepsis prediction platform using machine learning techniques. This project is supported by the DAAD Kospie Scholarship at University of Passau and is in collaboration with Klinikum Passau.
-- 🌐 **Interests**: Applying AI in healthcare, predictive analytics, big data, and cloud computing.
+🌐 **Interests:**  
+AI in healthcare, predictive analytics, financial modeling, and data engineering.  
 
----
+## 💻 Technical Skills  
+**Programming Languages:** Python, Java, C++, C  
+**Frameworks & Libraries:** TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Hugging Face  
+**Data Engineering:** SQL, ETL Processes  
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
+**Cloud Platforms:** Docker, Kubernetes, Microsoft Azure  
+**Version Control:** Git, GitHub  
+**AI Tools:** OpenAI API, LangChain  
+**Other Skills:** Financial Modeling, Image Recognition, NLP  
 
-### 💻 Technical Skills
-- **Languages**: Python, Java, C++, C
-- **Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV
-- **Data Handling**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn, Power BI
-- **Big Data Technologies**: PySpark, Blob Storage
-- **Cloud Platforms**: Microsoft Azure, Azure Machine Learning, Kubernetes, Docker
-- **Version Control & Project Management**: Git, Jupyter Notebooks, Trello, Notion
+## 📈 Projects  
+- **Sepsis Prediction Platform:**  
+  Developed an ML model with 93% accuracy for predicting sepsis using ensemble methods.  
+- **Automated Tube-Counting System:**  
+  Created a depth camera-based AI system to enhance operational efficiency by 40%.  
+- **Comprehensive Financial Analysis:**  
+  Built a Python application for portfolio performance and risk assessment using GARCH and Monte Carlo simulations.
+- **Retrieval-Augmented Generation (RAG) System for PDF Document Processing**  
+  Developed a system integrating Retrieval-Augmented Generation (RAG) to process PDF documents, create text embeddings, and query a vector database, resulting in a Streamlit application deployed with Docker.  
 
----
 
-### 📈 Analysis & Mathematics
-- Proficient in statistical analysis, probability, mathematical modeling, and utilizing advanced machine learning algorithms for real-world applications.
-- Expertise in handling large datasets, ensuring GDPR compliance and data privacy.
+## 🤝 Connect With Me  
+- **Email:** khaire01@ads.uni-passau.de  
+- **LinkedIn:** [Menyara Khaireddine](https://linkedin.com/in/Menyara-K)  
 
----
-
-### 🤝 Connect With Me
-- **LinkedIn**: [https://www.linkedin.com/in/menyara-k/](https://www.linkedin.com/in/menyara-k/)
-
----
-
-## "Driven by data, inspired by results!"
+*"Driven by data, inspired by results!"*  
