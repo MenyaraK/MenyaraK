@@ -2,7 +2,7 @@
 I'm Menyara Khaireddine, an AI Engineering Master’s Student  
 
 🌐 **Interests:**  
-AI in healthcare, predictive analytics, financial modeling, and data engineering.  
+AI in healthcare, predictive analytics, financial modeling, data engineering and volleyball 🏐.  
 
 ## 📚 About Me  
 🎓 **Education:**  
