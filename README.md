@@ -1,6 +1,9 @@
 # Welcome to My GitHub! 👋  
 I'm Menyara Khaireddine, an AI Engineering Master’s Student  
- 
+
+🌐 **Interests:**  
+AI in healthcare, predictive analytics, financial modeling, and data engineering.  
+
 ## 📚 About Me  
 🎓 **Education:**  
 - **Master’s Degree in AI Engineering** (Expected, September 2026)  
@@ -15,9 +18,6 @@ I'm Menyara Khaireddine, an AI Engineering Master’s Student
   INSAT, Tunisia  
   Focus on Industrial Engineering, Electrical Systems, and Data-Driven Solutions.  
  
-
-🌐 **Interests:**  
-AI in healthcare, predictive analytics, financial modeling, and data engineering.  
 
 ## 💻 Technical Skills  
 **Programming Languages:** Python, Java, C++, C  
