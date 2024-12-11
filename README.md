@@ -25,6 +25,7 @@ AI in healthcare, predictive analytics, financial modeling, and data engineering
 **Data Engineering:** SQL, ETL Processes  
 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
 **Cloud Platforms:** Docker
+
 **Version Control:** Git, GitHub  
 **AI Tools:** OpenAI API, LangChain  
 **Other Skills:** Financial Modeling, Image Recognition, NLP  
